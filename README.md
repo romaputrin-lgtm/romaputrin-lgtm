@@ -105,15 +105,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romaputrin-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romaputrin-lgtm&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -123,14 +114,6 @@ me.say_hi()
 | [📅 Booking FastAPI](https://github.com/romaputrin-lgtm/booking-fastapi) | REST API for booking system | FastAPI, SQLAlchemy |
 | [📊 Finance Calculator](https://github.com/romaputrin-lgtm/finance-calculator-pyqt) | Desktop financial calculator | PyQt6, matplotlib |
 | [🎨 Creative Generator](https://github.com/romaputrin-lgtm/nanobanana-creative-generator) | AI creative generator CLI | Python, Gemini API |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaputrin-lgtm&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
 
 ---
 
