@@ -112,7 +112,7 @@ me.say_hi()
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=romaputrin-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
   <a href="https://github.com/romaputrin-lgtm">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=romaputrin-lgtm&theme=tokyonight&hide_border=true&background=0d1117"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=romaputrin-lgtm&theme=tokyonight&hide_border=true&background=0D1117"/>
   </a>
 </div>
 
@@ -134,7 +134,7 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/romaputrin-lgtm">
-    <img src="https://github-profile-trophy.vercel.app/?username=romaputrin-lgtm&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=romaputrin-lgtm&theme=onestar&no-frame=true&column=4&row=2"/>
   </a>
 </div>
 
