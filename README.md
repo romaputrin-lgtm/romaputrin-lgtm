@@ -4,34 +4,34 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Roman%20Putrin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20AI&descAlignY=52&descSize=18"/>
 
 <!-- Profile Photo -->
-<img src="https://raw.githubusercontent.com/romaputrin-lgtm/romaputrin-lgtm/master/avatar.jpg" width="200" style="border-radius: 50%;" alt="Roman Putrin"/>
+<img src="https://raw.githubusercontent.com/romaputrin-lgtm/romaputrin-lgtm/master/avatar.jpg" width="180" alt="Roman Putrin"/>
 
 <!-- Typing Animation -->
+<br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B+%D0%AF+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD;Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+React+%7C+FastAPI+%7C+AI;%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Hello!+%F0%9F%91%8B+I'm+Roman;Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+React+%7C+FastAPI+%7C+AI;Building+awesome+projects+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <!-- Social Badges -->
-<p>
-  <a href="https://t.me/progrannqw">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:romaputrin@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/romaputrin-lgtm">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://t.me/progrannqw">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://github.com/romaputrin-lgtm">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=romaputrin-lgtm&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=romaputrin-lgtm&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
 ```python
 class Developer:
@@ -40,31 +40,26 @@ class Developer:
         self.role = "Full-Stack Developer"
         self.location = "Russia 🇷🇺"
         self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.interests = ["Web Development", "AI/ML", "Automation", "Open Source"]
+        self.interests = ["Web Dev", "AI/ML", "Automation"]
 
     def say_hi(self):
-        print("Спасибо за визит! Давайте создавать крутые проекты вместе! 🚀")
+        print("Thanks for visiting! Let's build something awesome! 🚀")
 
 me = Developer()
 me.say_hi()
 ```
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaputrin-lgtm&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+### 🎯 What I do:
 
-### 🎯 Чем занимаюсь:
+- 🔭 Working on **exciting projects**
+- 🌱 Learning **AI and Machine Learning**
+- 💡 Love **automation** and **optimization**
+- 🎨 Creating **beautiful interfaces**
+- ☕ Powered by **coffee and code**
 
-- 🔭 Работаю над **интересными проектами**
-- 🌱 Изучаю **AI и машинное обучение**
-- 💡 Люблю **автоматизацию** и **оптимизацию**
-- 🎨 Создаю **красивые интерфейсы**
-- ☕ Питаюсь **кофе и кодом**
-
-### 📫 Связаться со мной:
+### 📫 Contact me:
 
 - 💬 Telegram: [@progrannqw](https://t.me/progrannqw)
-- 📧 Email: romaputrin@example.com
-
-<br clear="right"/>
 
 ---
 
@@ -105,54 +100,35 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romaputrin-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romaputrin-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romaputrin-lgtm&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romaputrin-lgtm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" width="100%"/>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![Currency Bot](https://github-readme-stats.vercel.app/api/pin/?username=romaputrin-lgtm&repo=currency-rates-bot&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/romaputrin-lgtm/currency-rates-bot)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=romaputrin-lgtm&repo=portfolio-react&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/romaputrin-lgtm/portfolio-react)
-
-[![Booking API](https://github-readme-stats.vercel.app/api/pin/?username=romaputrin-lgtm&repo=booking-fastapi&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/romaputrin-lgtm/booking-fastapi)
-[![Finance Calculator](https://github-readme-stats.vercel.app/api/pin/?username=romaputrin-lgtm&repo=finance-calculator-pyqt&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/romaputrin-lgtm/finance-calculator-pyqt)
-
-[![Creative Generator](https://github-readme-stats.vercel.app/api/pin/?username=romaputrin-lgtm&repo=nanobanana-creative-generator&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/romaputrin-lgtm/nanobanana-creative-generator)
-
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [💱 Currency Rates Bot](https://github.com/romaputrin-lgtm/currency-rates-bot) | Telegram bot for CBR currency rates | Python, aiogram |
+| [🎨 Portfolio React](https://github.com/romaputrin-lgtm/portfolio-react) | Modern portfolio website | React, Tailwind |
+| [📅 Booking FastAPI](https://github.com/romaputrin-lgtm/booking-fastapi) | REST API for booking system | FastAPI, SQLAlchemy |
+| [📊 Finance Calculator](https://github.com/romaputrin-lgtm/finance-calculator-pyqt) | Desktop financial calculator | PyQt6, matplotlib |
+| [🎨 Creative Generator](https://github.com/romaputrin-lgtm/nanobanana-creative-generator) | AI creative generator CLI | Python, Gemini API |
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaputrin-lgtm&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=romaputrin-lgtm&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 **⭐ Star my repos if you find them interesting!**
 
