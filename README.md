@@ -13,7 +13,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://t.me/romaputrin">
+  <a href="https://t.me/progrannqw">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:romaputrin@example.com">
@@ -61,7 +61,7 @@ me.say_hi()
 
 ### 📫 Связаться со мной:
 
-- 💬 Telegram: [@romaputrin](https://t.me/romaputrin)
+- 💬 Telegram: [@progrannqw](https://t.me/progrannqw)
 - 📧 Email: romaputrin@example.com
 
 <br clear="right"/>
