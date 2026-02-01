@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Roman%20Putrin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20AI&descAlignY=52&descSize=18"/>
 
 <!-- Profile Photo -->
-<img src="avatar.jpg" width="200" style="border-radius: 50%;" alt="Roman Putrin"/>
+<img src="https://raw.githubusercontent.com/romaputrin-lgtm/romaputrin-lgtm/master/avatar.jpg" width="200" style="border-radius: 50%;" alt="Roman Putrin"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -140,31 +140,17 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 💭 Random Dev Quote
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romaputrin-lgtm/romaputrin-lgtm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romaputrin-lgtm/romaputrin-lgtm/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/romaputrin-lgtm/romaputrin-lgtm/output/github-contribution-grid-snake.svg">
-  </picture>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-romaputrin-lgtm.vercel.app/api/spotify)](https://open.spotify.com/user/romaputrin)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
